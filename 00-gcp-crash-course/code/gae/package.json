@@ -1,9 +1,11 @@
 {
   "name": "nodejs-getting-started",
-  "scripts": {
+  "scripts": 
+  {
     "start": "node server.js"
-  },
-  "engines": {
+    },
+    "engines": 
+    {
     "node": "10.x.x"
   }
 }
